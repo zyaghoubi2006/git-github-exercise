@@ -14,8 +14,13 @@ FIRST COMMIT from zyaghoubi2006:feature
 (first commit from zyaghoubi2006:feature file.txt)
 =======
 SECOND COMMIT from zyaghoubi2006:feature
+<<<<<<< HEAD
 >>>>>>> 13bd8ff (second commit from zyaghoubi2006:feature file.txt content)
 =======
 SECOND COMMIT from zyaghoubi2006:feature
 THIRD COMMIT from zyaghoubi2006:feature
 >>>>>>> 394ac70 (third commit from zyaghoubi2006:feature file.txt contetn)
+=======
+THIRD COMMIT from zyaghoubi2006:feature
+FOURTH COMMIT from zyaghoubi2006:feature
+>>>>>>> 6a2d69c (fourth commit from zyaghoubi2006:feature file.txt content)
