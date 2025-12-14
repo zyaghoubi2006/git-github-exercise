@@ -10,7 +10,12 @@ FOURTH COMMIT from zyaghoubi2006:develop
 
 FIRST COMMIT from zyaghoubi2006:feature
 <<<<<<< HEAD
+<<<<<<< HEAD
 (first commit from zyaghoubi2006:feature file.txt)
 =======
 SECOND COMMIT from zyaghoubi2006:feature
 >>>>>>> 13bd8ff (second commit from zyaghoubi2006:feature file.txt content)
+=======
+SECOND COMMIT from zyaghoubi2006:feature
+THIRD COMMIT from zyaghoubi2006:feature
+>>>>>>> 394ac70 (third commit from zyaghoubi2006:feature file.txt contetn)
