@@ -9,26 +9,9 @@ FOURTH COMMIT from zyaghoubi2006:develop
 
 
 FIRST COMMIT from zyaghoubi2006:feature
-<<<<<<< HEAD
-<<<<<<< HEAD
-(first commit from zyaghoubi2006:feature file.txt)
-=======
+
+
+
 SECOND COMMIT from zyaghoubi2006:feature
-<<<<<<< HEAD
->>>>>>> 13bd8ff (second commit from zyaghoubi2006:feature file.txt content)
-=======
-SECOND COMMIT from zyaghoubi2006:feature
-THIRD COMMIT from zyaghoubi2006:feature
-<<<<<<< HEAD
->>>>>>> 394ac70 (third commit from zyaghoubi2006:feature file.txt contetn)
-=======
-THIRD COMMIT from zyaghoubi2006:feature
-FOURTH COMMIT from zyaghoubi2006:feature
-<<<<<<< HEAD
->>>>>>> 6a2d69c (fourth commit from zyaghoubi2006:feature file.txt content)
-=======
-FOURTH COMMIT from zyaghoubi2006:feature
-temp feature change
->>>>>>> 470f041 (resolve conflict on feature branch)
-=======
->>>>>>> 3bf4cac (remove temporary feature change)
+
+FIRST EXTRA COMMIT from zyaghoubi2006:feature
