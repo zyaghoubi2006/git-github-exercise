@@ -24,8 +24,11 @@ THIRD COMMIT from zyaghoubi2006:feature
 =======
 THIRD COMMIT from zyaghoubi2006:feature
 FOURTH COMMIT from zyaghoubi2006:feature
+<<<<<<< HEAD
 >>>>>>> 6a2d69c (fourth commit from zyaghoubi2006:feature file.txt content)
 =======
 FOURTH COMMIT from zyaghoubi2006:feature
 temp feature change
 >>>>>>> 470f041 (resolve conflict on feature branch)
+=======
+>>>>>>> 3bf4cac (remove temporary feature change)
